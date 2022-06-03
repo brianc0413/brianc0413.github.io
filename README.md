@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+I'm a Ph.D student at Cornell University, broadly interested in causal inference, machine learning interpretability, and applications in high-risk domains such as healthcare and policy. Previously, I was a research assistant for the Tobin Economics Research Program, Lawrence Berkeley National Laboratory, and Yale's Department of Statistics and Data Science. I've also held interdisciplinary opportunities through the [Information Society Project](https://law.yale.edu/brian-cho). 
 
-You can use the [editor on GitHub](https://github.com/brianc0413/brianc0413.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+See my publications, code, and ongoing research projects below! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Resume](https://drive.google.com/file/d/1DSn5c7y6hat1LV_Q5h8wVZ7t9Ox9zbrr/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/brian-cho-5a7876172/) | [Github](https://github.com/brianc0413)
 
-### Markdown
+
+### Software
+
+
+
+### Workshop Proceedings
+
+- Effective Missing Value Imputation Methods for Building Monitoring Data (w. T. Dayrit, Y. Gao, Z. Wang, A. Sim, K. Wu)
+  - [2020 IEEE International Conference on Big Data (Big Data), 2020, pp. 2866-2875](https://ieeexplore.ieee.org/document/9378230)
+
+
+### Professional Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
