@@ -1,4 +1,6 @@
-I'm a Ph.D student at Cornell University, broadly interested in causal inference, machine learning interpretability, and applications in high-risk domains such as healthcare and policy. Previously, I was a research assistant for the Tobin Economics Research Program, Lawrence Berkeley National Laboratory, and Yale's Department of Statistics and Data Science. I've also held interdisciplinary opportunities through the [Information Society Project](https://law.yale.edu/brian-cho), and gained industry experience as an intern at Bridgewater Associates. Previously, I completed a BS/MA degree from Yale University in Statistics and Data Science.
+I'm a Ph.D student at Cornell University, broadly interested in **causal inference, machine learning interpretability, and applications in high-risk domains such as healthcare and policy**. 
+
+Previously, I was a research assistant for the Tobin Economics Research Program, Lawrence Berkeley National Laboratory, and Yale's Department of Statistics and Data Science. I've also held interdisciplinary opportunities through the [Information Society Project](https://law.yale.edu/brian-cho), and gained industry experience as an intern at Bridgewater Associates. 
 
 See my publications, code, and ongoing research projects below! 
 
