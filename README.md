@@ -1,4 +1,4 @@
-![profile_pic](https://github.com/brianc0413/brianc0413.github.io/blob/main/images/profile_image.png =250x250)
+<img src="[https://your-image-url.type](https://github.com/brianc0413/brianc0413.github.io/blob/main/images/profile_image.png)" width="100" height="100">
 
 I'm a Ph.D student at Cornell University, broadly interested in **causal inference, machine learning interpretability, and applications in high-risk domains such as healthcare and policy**. 
 
