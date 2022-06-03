@@ -9,8 +9,8 @@ See my publications, code, and ongoing research projects below!
 
 ### Software
 
-- **Distillery: Interpretable Machine Learning Methods and Surrogate Model Methods**
-  - [Submitted to CRAN, Github link](https://github.com/forestry-labs/Distillery) 
+- **Distillery: Interpretable Machine Learning Methods and Surrogate Model Methods** (w. T. Saarinen, S. Walter, J. Sekhon)
+  - [Submitted to CRAN, GitHub repo](https://github.com/forestry-labs/Distillery) 
 
 ### Workshop Proceedings
 
