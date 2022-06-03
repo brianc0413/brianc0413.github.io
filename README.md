@@ -1,4 +1,4 @@
-![profile_picture](/images/profile_picture_jpg)
+![profile_pic](https://github.com/brianc0413/brianc0413.github.io/blob/main/images/profile_image.png)
 
 I'm a Ph.D student at Cornell University, broadly interested in **causal inference, machine learning interpretability, and applications in high-risk domains such as healthcare and policy**. 
 
