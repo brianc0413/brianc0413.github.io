@@ -1,5 +1,7 @@
 <!-- ![Profile Picture](profile_image.png) -->
-<img src="profile_image.png" alt="Profile Picture" align="center" width="200"/>
+<div style="text-align: center">
+<a href="link">
+<img src="profile_image.png" alt="Profile Picture" align="center" width="200"/></a>
 
 
 I'm a Ph.D student at Cornell University, broadly interested in **causal inference, machine learning interpretability, and applications in high-risk domains such as healthcare and policy**. 
