@@ -12,7 +12,7 @@ See my publications, code, and ongoing research projects below!
 
 ### Works in Progress
 - Kernel Debiased Plug-in Estimation (w. Kyra Gan, Ivana Malenica, Yaroslav Mukhin)
-  - [Link](https://arxiv.org/abs/2306.08598)
+  - [Preprint](https://arxiv.org/abs/2306.08598)
 
 ### Software
 
