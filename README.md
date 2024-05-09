@@ -14,7 +14,7 @@ See my publications, code, and ongoing research projects below!
 - Kernel Debiased Plug-in Estimation (w. Kyra Gan, Ivana Malenica, Yaroslav Mukhin)
   - [To Appear in ICML, 2024](https://arxiv.org/abs/2306.08598) (Finalist at INFORMS DMDA Workshop, Theoretical Track)
 - Peeking with PEAK: Sequential, Nonparametric Composite Hypothesis Tests for Means of Multiple Data Streams (w. Kyra Gan, Nathan Kallus) 
-  - [To Appear in ICML, 2024](https://arxiv.org/pdf/2402.06122.pdf) (Talk availale through [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks#h.xpxxx13zrl3))
+  - [To Appear in ICML, 2024](https://arxiv.org/pdf/2402.06122.pdf) (Talk available through [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks#h.xpxxx13zrl3))
 
 ### Software
 
