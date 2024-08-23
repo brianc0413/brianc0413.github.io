@@ -11,7 +11,7 @@ See my publications, code, and ongoing research projects below!
 [Resume](https://drive.google.com/file/d/1DSn5c7y6hat1LV_Q5h8wVZ7t9Ox9zbrr/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/brian-cho-5a7876172/) | [Email](mailto:bmc233@cornell.edu)
 
 ### Works in Progress
-- CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies
+- CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies (w. Ana-Roxana Pop, Kyra Gan, Sam Corbett-Davies, Israel Nir, Ariel Evnine, Nathan Kallus)
   - [arXiv link](https://www.arxiv.org/abs/2408.12004)   
 
 
