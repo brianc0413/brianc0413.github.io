@@ -2,7 +2,7 @@
 <p style="text-align:center;"><img src="profile_image.png" alt="Profile Picture" width="200"></p>
 
 
-I'm a Ph.D student at Cornell University, broadly interested in **causal inference, experimental design, and applications in high-risk domains such as healthcare and policy**. 
+I'm a Ph.D student at Cornell University, broadly interested in **causal inference, experimental design, and applications in high-risk domains such as healthcare and policy**.
 
 Previously, I was a research assistant for the Tobin Economics Research Program, Lawrence Berkeley National Laboratory, and Yale's Department of Statistics and Data Science. I've also held interdisciplinary opportunities through the [Information Society Project](https://law.yale.edu/brian-cho), and gained industry experience as an intern at Bridgewater Associates. 
 
