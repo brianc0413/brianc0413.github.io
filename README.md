@@ -12,7 +12,9 @@ See my publications, code, and ongoing research projects below!
 
 ### Works in Progress
 - CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies (w. Ana-Roxana Pop, Kyra Gan, Sam Corbett-Davies, Israel Nir, Ariel Evnine, Nathan Kallus)
-  - [arXiv link](https://www.arxiv.org/abs/2408.12004)   
+  - [arXiv link](https://www.arxiv.org/abs/2408.12004)
+- Reward Maximization for Pure Exploration: Minimax Optimal Good Arm Identification for Nonparametric Multi-Armed Bandits (w. Dominik Meier, Kyra Gan, Nathan Kallus)
+  - [arXiv link](https://arxiv.org/pdf/2410.15564)
 
 
 ### Conference Publications
