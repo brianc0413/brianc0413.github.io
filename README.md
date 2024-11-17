@@ -11,8 +11,6 @@ See my publications, code, and ongoing research projects below!
 [Resume](https://drive.google.com/file/d/1DSn5c7y6hat1LV_Q5h8wVZ7t9Ox9zbrr/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/brian-cho-5a7876172/) | [Email](mailto:bmc233@cornell.edu)
 
 ### Works in Progress
-- CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies (w. Ana-Roxana Pop, Kyra Gan, Sam Corbett-Davies, Israel Nir, Ariel Evnine, Nathan Kallus)
-  - [arXiv link](https://www.arxiv.org/abs/2408.12004)
 - Reward Maximization for Pure Exploration: Minimax Optimal Good Arm Identification for Nonparametric Multi-Armed Bandits (w. Dominik Meier, Kyra Gan, Nathan Kallus)
   - [arXiv link](https://arxiv.org/pdf/2410.15564)
 
@@ -20,8 +18,10 @@ See my publications, code, and ongoing research projects below!
 ### Conference Publications
 - Kernel Debiased Plug-in Estimation (w. Kyra Gan, Ivana Malenica, Yaroslav Mukhin)
   - [ICML, 2024](https://arxiv.org/abs/2306.08598) (Finalist at INFORMS DMDA Workshop, Theoretical Track)
-- Peeking with PEAK: Sequential, Nonparametric Composite Hypothesis Tests for Means of Multiple Data Streams (w. Kyra Gan, Nathan Kallus) 
+- Peeking with PEAK: Sequential, Nonparametric Composite Hypothesis Tests for Means of Multiple Data Streams (w. Kyra Gan, Nathan Kallus)
   - [ICML, 2024](https://arxiv.org/pdf/2402.06122.pdf) (Talk available through [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/past-talks#h.xpxxx13zrl3))
+- CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies (w. Ana-Roxana Pop, Kyra Gan, Sam Corbett-Davies, Israel Nir, Ariel Evnine, Nathan Kallus)
+  - KDD 2025, [arXiv link](https://www.arxiv.org/abs/2408.12004)
 
 ### Software
 
