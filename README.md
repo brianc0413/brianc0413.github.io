@@ -8,7 +8,7 @@ Previously, I was a research assistant for the Tobin Economics Research Program,
 
 See my publications, code, and ongoing research projects below! 
 
-[Resume](https://drive.google.com/file/d/1DSn5c7y6hat1LV_Q5h8wVZ7t9Ox9zbrr/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/brian-cho-5a7876172/) | [Email](mailto:bmc233@cornell.edu)
+[LinkedIn](https://www.linkedin.com/in/brian-cho-5a7876172/) | [Email](mailto:bmc233@cornell.edu)
 
 ### Awards
 - National Defense Science and Engineering Graduate Fellowship (2023)
