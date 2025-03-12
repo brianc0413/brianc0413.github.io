@@ -10,6 +10,11 @@ See my publications, code, and ongoing research projects below!
 
 [Resume](https://drive.google.com/file/d/1DSn5c7y6hat1LV_Q5h8wVZ7t9Ox9zbrr/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/brian-cho-5a7876172/) | [Email](mailto:bmc233@cornell.edu)
 
+### Awards
+- National Defense Science and Engineering Graduate Fellowship (2023)
+- Finalist, 2023 INFORMS Data Mining and Decision Analysis Workshop Best Paper Competition -- Theoretical Track
+
+
 ### Works in Progress
 Some fun things coming soon!
 
