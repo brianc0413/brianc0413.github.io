@@ -17,7 +17,7 @@ See my publications, code, and ongoing research projects below!
 
 ### Works in Progress
 - SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement
- - [arXiv link](https://arxiv.org/abs/2503.12760)
+  - [arXiv link](https://arxiv.org/abs/2503.12760)
 
 
 ### Publications
