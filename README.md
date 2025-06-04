@@ -16,11 +16,11 @@ See my publications, code, and ongoing research projects below!
 
 
 ### Works in Progress
-- SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement
+- SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement (w. Ana-Roxana Pop, Ariel Evnine, Nathan Kallus)
   - [arXiv link](https://arxiv.org/abs/2503.12760)
-- Simulation-Based Inference for Adaptive Experiments
+- Simulation-Based Inference for Adaptive Experiments (w. Aurélien Bibaut, Nathan Kallus)
   - [arXiv link](http://arxiv.org/abs/2506.02881)
-- Efficient Adaptive Experimentation with Non-Compliance
+- Efficient Adaptive Experimentation with Non-Compliance (w. Miruna Oprescu, Nathan Kallus)
   - [arXiv link](http://arxiv.org/abs/2505.17468)
   
 
