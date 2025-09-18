@@ -24,9 +24,9 @@ See my publications, code, and ongoing research projects below!
 
 ### Publications
 - Simulation-Based Inference for Adaptive Experiments (w. Aurélien Bibaut, Nathan Kallus)
-  - [Neurips, 2025](http://arxiv.org/abs/2506.02881)
+  - [NeurIPS, 2025](http://arxiv.org/abs/2506.02881)
 - Efficient Adaptive Experimentation with Non-Compliance (w. Miruna Oprescu, Nathan Kallus)
-  - [Neurips, 2025](http://arxiv.org/abs/2505.17468)
+  - [NeurIPS, 2025](http://arxiv.org/abs/2505.17468)
 - Reward Maximization for Pure Exploration: Minimax Optimal Good Arm Identification for Nonparametric Multi-Armed Bandits (w. Dominik Meier, Kyra Gan, Nathan Kallus)
   - [AISTATS, 2025](https://arxiv.org/pdf/2410.15564)
 - CSPI-MT: Calibrated Safe Policy Improvement with Multiple Testing for Threshold Policies (w. Ana-Roxana Pop, Kyra Gan, Sam Corbett-Davies, Israel Nir, Ariel Evnine, Nathan Kallus)
