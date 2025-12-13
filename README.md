@@ -16,10 +16,10 @@ See my publications, code, and ongoing research projects below!
 
 
 ### Works in Progress
-- Exploration in the Limit: Exploring a relaxed fixed-confidence framework for bandit exploration.
+- Exploration in the Limit: A novel relaxed fixed-confidence framework for bandit exploration.
 - The Adaptive Global Null Test: A sequentially estimated (or cross-fit) test statistic for efficient global null tests.
 - Calibrating Asymptotic Anytime Valid Inference: A Wiener-process-based procedure for calibrating asymptotic anytime-valid tests under batching, maximum sample sizes, and other common experimentation set-ups.
-- Simulation-Based Inference for Contextual Adaptive Designs.
+- Simulation-Based Inference for Contextual Adaptive Experiments.
 - SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement (w. Ana-Roxana Pop, Ariel Evnine, Nathan Kallus)
   - [arXiv link](https://arxiv.org/abs/2503.12760)
 
