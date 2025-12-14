@@ -23,6 +23,7 @@ See my publications, code, and ongoing research projects below!
 - Calibrating Asymptotic Anytime Valid Inference
   - A Wiener-process-based procedure for calibrating asymptotic anytime-valid tests under batching, maximum sample sizes, and other common experimentation set-ups.
 - Simulation-Based Inference for Contextual Adaptive Experiments
+  
 - SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement (w. Ana-Roxana Pop, Ariel Evnine, Nathan Kallus)
   - [arXiv link](https://arxiv.org/abs/2503.12760)
 
