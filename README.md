@@ -17,7 +17,7 @@ See my publications, code, and ongoing research projects below!
 
 ### Works in Progress
 - Exploration in the Limit
-  - A novel relaxed fixed-confidence framework for bandit exploration.
+  - [arXiv link](https://arxiv.org/abs/2601.00084)
 - The Adaptive Global Null Test
   - A sequentially estimated (or cross-fit) test statistic for efficient global null tests.
 - Calibrating Asymptotic Anytime Valid Inference
