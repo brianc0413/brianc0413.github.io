@@ -16,6 +16,8 @@ See my publications, code, and ongoing research projects below!
 
 
 ### Works in Progress
+- GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function
+  - [arXiv link](http://arxiv.org/abs/2602.08096)
 - Exploration in the Limit (w. Nathan Kallus)
   - [arXiv link](https://arxiv.org/abs/2601.00084)
 - SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement (w. Ana-Roxana Pop, Ariel Evnine, Nathan Kallus)
