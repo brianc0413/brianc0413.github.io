@@ -16,7 +16,7 @@ See my publications, code, and ongoing research projects below!
 
 
 ### Works in Progress
-- GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function
+- GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function (w. Raaz Dwivedi, Nathan Kallus)
   - [arXiv link](http://arxiv.org/abs/2602.08096)
 - Exploration in the Limit (w. Nathan Kallus)
   - [arXiv link](https://arxiv.org/abs/2601.00084)
