@@ -13,6 +13,7 @@ See my publications, code, and ongoing research projects below!
 ### Awards
 - National Defense Science and Engineering Graduate Fellowship (2023)
 - Finalist, 2023 INFORMS Data Mining and Decision Analysis Workshop Best Paper Competition -- Theoretical Track
+- IOE-ISyE-MS&E Rising Stars Workshop (oral presentation, Poster Competition 2nd Place)
 
 
 ### Works in Progress
