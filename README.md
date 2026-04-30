@@ -17,8 +17,6 @@ See my publications, code, and ongoing research projects below!
 
 
 ### Works in Progress
-- GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function (w. Raaz Dwivedi, Nathan Kallus)
-  - [arXiv link](http://arxiv.org/abs/2602.08096)
 - Exploration in the Limit (w. Nathan Kallus)
   - [arXiv link](https://arxiv.org/abs/2601.00084)
 - SNPL: Simultaneous Policy Learning and Evaluation for Safe Multi-Objective Policy Improvement (w. Ana-Roxana Pop, Ariel Evnine, Nathan Kallus)
@@ -28,6 +26,8 @@ See my publications, code, and ongoing research projects below!
 
 
 ### Publications
+- GAAVI: Global Asymptotic Anytime Valid Inference for the Conditional Mean Function (w. Raaz Dwivedi, Nathan Kallus)
+  - [ICML, 2026](http://arxiv.org/abs/2602.08096)
 - Simulation-Based Inference for Adaptive Experiments (w. Aurélien Bibaut, Nathan Kallus)
   - [NeurIPS, 2025](http://arxiv.org/abs/2506.02881)
 - Efficient Adaptive Experimentation with Non-Compliance (w. Miruna Oprescu, Nathan Kallus)
