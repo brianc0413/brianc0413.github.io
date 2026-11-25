@@ -44,6 +44,7 @@ a:focus-visible {
   width: clamp(6rem, 21vw, 10rem);
   aspect-ratio: 1;
   object-fit: cover;
+  object-position: center 20%;
   border-radius: 0.45rem;
 }
 
